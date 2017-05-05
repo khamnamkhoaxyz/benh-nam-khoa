@@ -30,7 +30,8 @@ Bệnh nam khoa là các bệnh liên quan đến sức khỏe, khả năng sinh
 	<p>
 		Triệu chứng: Tiểu gián đoạn, tiểu yếu, bí tiểu, cảm thấ đau khi xuất tinh, đau lưng, khi đại tiện cảm thấy đau, vị trí đau lan đến xương. (Có nhiều người không có triệu chứng để nhận biết)</p>
 </div>
-<p>xem thêm <a href="http://khamnamkhoa.xyz/benh-tuyen-tien-liet.html"></a></p>
+<p>
+	xem thêm: <a href="https://vi.wikipedia.org/wiki/Ung_th%C6%B0_tuy%E1%BA%BFn_ti%E1%BB%81n_li%E1%BB%87t" title="Ung thư tuyến tiền liệt">Ung thư tuyến tiền liệt</a> (wikipedia)</p>
 <h3>
 	Rối loạn chức năng sinh dục</h3>
 <p>
